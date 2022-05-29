@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>INDUTechnologies- Home Page</title>
+<title>RAMUTechnologies- Home Page</title>
 <link href="images/INDUlogo.jpg" rel="icon">
 </head>
 </head>
