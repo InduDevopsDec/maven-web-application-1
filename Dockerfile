@@ -1,3 +1,2 @@
 FROM tomcat:latest
-WORKDIR /var/lib/jenkins/workspace/cicd/target/
-COPY /var/lib/jenkins/workspace/cicd/target/maven-web-application.war /usr/local/tomcat/webapps/
+COPY target/maven-web-application.war /usr/local/tomcat/webapps/
